@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".YemekDuzenleActivity"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/edt_yemekAdiDegistir_YemekDuzenleActivity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Yemek İsmini Değiştir"
+            android:maxLines="1"/>
+
+        <EditText
+            android:id="@+id/edt_yemekAciklamasiDegistir_YemekDuzenleActivity"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Yemek Açıklamasını Değiştir"
+            android:maxLines="5"/>
+
+        <EditText
+            android:id="@+id/edt_yemekKategoriDegistir_YemekDuzenleActivity"
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Yemek Kategorisini Değiştir"
+            android:maxLines="1"/>
+
+        <EditText
+            android:id="@+id/edt_yemekFiyatiDegistir_YemekDuzenleActivity"
+            android:layout_marginTop="10dp"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:hint="Fiyat"
+            android:inputType="number"
+            android:maxLines="1"/>
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_kaydet_YemekDuzenleActivity"
+                android:layout_gravity="center"
+                android:text="Değişiklikleri Kaydet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@android:color/holo_green_dark"/>
+
+            <Button
+                android:id="@+id/btn_yemegiSil_YemekDuzenleActivity"
+                android:layout_gravity="center"
+                android:text="Yemeği Sil"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:backgroundTint="@android:color/holo_red_dark"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

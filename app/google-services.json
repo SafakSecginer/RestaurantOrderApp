@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386432900826",
+    "project_id": "e-data-restoran",
+    "storage_bucket": "e-data-restoran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386432900826:android:97f13fcfd03b7a4a64cfe3",
+        "android_client_info": {
+          "package_name": "com.example.edatarestoran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386432900826-9n40u42aojiasfvd6q88rkcioa2upc0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCjt7FnMtCaIlSP917JiTCxzn_s8hJ8Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386432900826-9n40u42aojiasfvd6q88rkcioa2upc0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

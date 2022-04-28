@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Safak/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/activity_ana_sayfa.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/Safak/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/activity_yemek_ekle.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Safak/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/fragment_home.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/drawable/button_arkaplan.xml" value="0.3490740740740741" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/activity_ana_sayfa.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/activity_baslangic.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/activity_giris.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/activity_kaydol.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/activity_restoran_kayit.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/activity_yemek_duzenle.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/activity_yemek_ekle.xml" value="0.31521739130434784" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/fragment_profil.xml" value="0.348731884057971" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/layout/yemek_ogesi.xml" value="0.31521739130434784" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/menu/bottom_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/arge.stajyer/AndroidStudioProjects/EDataRestoran/app/src/main/res/mipmap-anydpi-v26/ic_restoran_logo.xml" value="0.22135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
